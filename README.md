@@ -2,6 +2,14 @@
 
 一个极简 macOS 菜单栏小工具，只显示内存状态，中文界面。
 
+## 下载
+
+直接下载最新版 App：
+
+[GitHub Releases](https://github.com/bailegebaiya/MemoryPressureCN/releases/latest)
+
+下载压缩包后解压，双击 `内存压力仪.app` 即可运行。由于当前版本未做 Apple 开发者签名，如果 macOS 第一次提示无法验证开发者，可以右键点击 App 后选择“打开”。
+
 ## 功能
 
 - 菜单栏显示已用内存百分比
